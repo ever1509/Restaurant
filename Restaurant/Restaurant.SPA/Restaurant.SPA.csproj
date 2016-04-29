@@ -184,6 +184,7 @@
     <Content Include="app\views\categories\detail.html" />
     <Content Include="app\views\categories\edit.html" />
     <Content Include="app\views\categories\index.html" />
+    <Content Include="app\views\foodmenu\index.html" />
     <Content Include="app\views\home\index.html" />
     <Content Include="app\views\usertypes\create.html" />
     <Content Include="app\views\usertypes\delete.html" />

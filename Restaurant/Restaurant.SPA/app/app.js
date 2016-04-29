@@ -50,7 +50,7 @@
             templateUrl: "app/views/usertypes/delete.html",
             controller:"DeleteUserTypeController"
         })
-        .when("/users", {
+        .when("/foodmenu", {
             templateUrl: "/app/views/foodmenu/index.html",
             controller:"FoodMenuController"
         });
