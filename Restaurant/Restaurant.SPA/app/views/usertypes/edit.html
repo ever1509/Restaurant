@@ -1,0 +1,22 @@
+﻿<form name="form" novalidate ng-submit="update()">
+    <div class="form-horizontal">
+        <h4>Edit User Type</h4>
+    </div>
+    <hr />
+    <div class="form-group" ng-class="{ 'has-error': form.description.$invalid }">
+        <label for="description" class="control-label col-md-2">Description</label>
+        <div class="col-md-10">
+            <input type="text" name="description" ng-model="result.model.description" ng-maxlength="300" required class="form-control" />
+            <span class="text-danger help-block" ng-show="form.description.$error.required">(*) Required</span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-12"><br /></div>
+    </div>
+    <div class="form-group form-inline">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" ng-disabled="!form.$valid" class="btn btn-primary" />
+            <a ng-click="cancel()" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+</form>

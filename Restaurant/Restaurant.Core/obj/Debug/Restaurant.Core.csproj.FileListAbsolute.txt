@@ -1,0 +1,30 @@
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.csprojResolveAssemblyReference.cache
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.dll.config
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.pdb
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.pdb
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.dll.config
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.pdb
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.csprojResolveAssemblyReference.cache
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.pdb
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.dll.config
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\Restaurant.Core.pdb
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.csprojResolveAssemblyReference.cache
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.Core\obj\Debug\Restaurant.Core.pdb

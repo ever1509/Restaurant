@@ -1,0 +1,18 @@
+﻿<br />
+<p>
+    <a ng-click="create()" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>Category Name</th>
+        <th>Status</th>      
+        <th></th>       
+    </tr>
+    <tr ng-repeat="item in result.model">
+        <td>{{item.categoryName}}</td>
+        <td>{{item.categoryStatus}}</td>       
+        <td><a ng-click="detail(item)" class="btn btn-primary">Details</a>
+        <a ng-click="edit(item)" class="btn btn-primary">Edit</a>
+        <a ng-click="delete(item)" class="btn btn-primary">Delete</a></td>
+    </tr>
+</table>

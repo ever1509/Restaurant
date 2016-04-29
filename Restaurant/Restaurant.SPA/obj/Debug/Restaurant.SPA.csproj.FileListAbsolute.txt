@@ -1,0 +1,165 @@
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.dll.config
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.pdb
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Antlr3.Runtime.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\EntityFramework.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\EntityFramework.SqlServer.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Newtonsoft.Json.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Owin.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Helpers.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Mvc.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Optimization.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Razor.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Razor.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\WebGrease.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Helpers.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Mvc.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Optimization.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.Razor.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Razor.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Antlr3.Runtime.pdb
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Newtonsoft.Json.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\EntityFramework.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\EntityFramework.SqlServer.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.csprojResolveAssemblyReference.cache
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.dll
+C:\Users\o.ever.orellana.SALREDBAC\Desktop\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.pdb
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.dll.config
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.pdb
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Antlr3.Runtime.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\EntityFramework.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\EntityFramework.SqlServer.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Google.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Web.Infrastructure.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Newtonsoft.Json.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Owin.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Helpers.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Mvc.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Optimization.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Razor.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Deployment.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Razor.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\WebGrease.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Helpers.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Mvc.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Optimization.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.Razor.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Deployment.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Razor.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Antlr3.Runtime.pdb
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Newtonsoft.Json.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\EntityFramework.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\EntityFramework.SqlServer.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Google.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.csprojResolveAssemblyReference.cache
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.dll
+D:\EFolder\Testing\mvc\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.pdb
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.dll.config
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Restaurant.SPA.pdb
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Antlr3.Runtime.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\EntityFramework.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\EntityFramework.SqlServer.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Newtonsoft.Json.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Owin.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Helpers.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Mvc.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Optimization.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Razor.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Deployment.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Razor.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\WebGrease.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Helpers.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Mvc.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Optimization.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.Razor.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Deployment.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\System.Web.WebPages.Razor.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Antlr3.Runtime.pdb
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Newtonsoft.Json.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\EntityFramework.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\EntityFramework.SqlServer.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.csprojResolveAssemblyReference.cache
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.dll
+D:\ASP\Proyectos Personales\Restaurant\Restaurant.SPA\obj\Debug\Restaurant.SPA.pdb

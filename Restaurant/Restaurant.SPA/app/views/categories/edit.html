@@ -1,0 +1,30 @@
+﻿<h2>Edit Category</h2>
+<form name="form" novalidate ng-submit="update()">
+    <div class="form-horizontal">
+        <div class="form-group" ng-class="{'has-error': form.categoryName.$invalid}">
+            <label for="categoryName" class="control-label col-md-2">Category Name</label>
+            <div class="col-md-10">
+                <input type="text" name="categoryName" ng-model="result.model.categoryName" class="form-control" />
+                <span  class="text-danger help-block" ng-show="form.categoryName.$error.required">(*) Required</span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="categoryStatus" class="control-label col-md-2">Category Status</label>
+            <div class="col-md-10">
+                <label class="radio-inline col-md-2">
+                    <input type="radio" name="categoryStatus" id="categoryStatus1" value="true" checked="{{result.model.categoryStatus}}" ng-model="result.model.categoryStatus"> Active
+                </label>
+                <label class="radio-inline col-md-2">
+                    <input type="radio" name="categoryStatus" id="categoryStatus0" value="false" checked="{{result.model.categoryStatus}}" ng-model="result.model.categoryStatus"> Inactive
+                </label>
+                <div class="col-md-6"></div>
+            </div>
+        </div>
+        <div class="form-group form-inline">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" ng-disabled="!form.$valid" class="btn btn-primary" />
+                <a class="btn btn-primary" ng-click="cancel()">Cancel</a>
+            </div>
+        </div>
+    </div>
+</form>
