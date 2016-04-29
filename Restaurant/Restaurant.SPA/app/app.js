@@ -49,6 +49,10 @@
         .when("/usertype-delete/:id", {
             templateUrl: "app/views/usertypes/delete.html",
             controller:"DeleteUserTypeController"
+        })
+        .when("/users", {
+            templateUrl: "/app/views/foodmenu/index.html",
+            controller:"FoodMenuController"
         });
     });
 })();

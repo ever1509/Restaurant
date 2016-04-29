@@ -173,9 +173,11 @@
   <ItemGroup>
     <Content Include="app\app.js" />
     <Content Include="app\controllers\CategoryController.js" />
+    <Content Include="app\controllers\FoodMenuController.js" />
     <Content Include="app\controllers\HomeController.js" />
     <Content Include="app\controllers\UserTypeController.js" />
     <Content Include="app\services\CategoryService.js" />
+    <Content Include="app\services\FoodMenuService.js" />
     <Content Include="app\services\UserTypeService.js" />
     <Content Include="app\views\categories\create.html" />
     <Content Include="app\views\categories\delete.html" />
