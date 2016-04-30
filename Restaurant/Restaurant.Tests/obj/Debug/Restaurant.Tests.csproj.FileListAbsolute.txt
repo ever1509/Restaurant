@@ -122,6 +122,7 @@ D:\EFolder\Testing\mvc\Restaurant\Restaurant.Tests\bin\Debug\System.Web.Http.Owi
 D:\EFolder\Testing\mvc\Restaurant\Restaurant.Tests\obj\Debug\Restaurant.Tests.csprojResolveAssemblyReference.cache
 D:\EFolder\Testing\mvc\Restaurant\Restaurant.Tests\obj\Debug\Restaurant.Tests.dll
 D:\EFolder\Testing\mvc\Restaurant\Restaurant.Tests\obj\Debug\Restaurant.Tests.pdb
+D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.Razor.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\Restaurant.Tests.dll.config
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\Restaurant.Tests.dll
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\Restaurant.Tests.pdb
@@ -162,7 +163,6 @@ D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\Sys
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.Helpers.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.Mvc.xml
-D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.Razor.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.WebPages.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant.Tests\bin\Debug\System.Web.WebPages.Razor.xml

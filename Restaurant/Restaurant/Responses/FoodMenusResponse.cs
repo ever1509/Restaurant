@@ -14,6 +14,7 @@ namespace Restaurant.Responses
 
         }
         [DataMember(Name = "model")]
-        public List<FoodMenuViewModel> Model { get; set; }
+        //public List<FoodMenuViewModel> Model { get; set; }
+        public List<FoodMenu> Model { get; set; }
     }
 }

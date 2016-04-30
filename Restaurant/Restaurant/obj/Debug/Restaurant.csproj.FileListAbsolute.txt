@@ -229,8 +229,6 @@ D:\ASP\Proyectos Personales\Restaurant\Restaurant\bin\System.Web.Http.Owin.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\obj\Debug\Restaurant.dll
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
-D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
-D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.dll
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\Restaurant.dll.config
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\Restaurant.dll
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\Restaurant.pdb
@@ -305,4 +303,6 @@ D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\Microsoft.Owin.
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\Microsoft.Owin.Security.Twitter.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\bin\System.Web.Http.Owin.xml
+D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.dll
 D:\ASP\Proyectos Personales\Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
