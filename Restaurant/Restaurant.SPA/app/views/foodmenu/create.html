@@ -1,0 +1,43 @@
+﻿<h2>Create Food Menu</h2>
+<form name="form" class="form-horizontal" ng-submit="create()">
+    <div class="form-group">
+        <label class="control-label col-md-2">Category</label>
+        <select class="form-control list-box tri-state" ng-model="result.model.categoryID">
+            <option ng-repeat="c in categoryResult.model" value="{{c.categoryID}}">{{c.categoryName}}</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Food Name</label>
+        <input type="text" class="form-control" ng-model="result.model.foodName" />
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Description Food</label>
+        <input type="text" class="form-control" ng-model="result.model.descriptionFood" />
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Price</label>
+        <input type="text" class="form-control" ng-model="result.model.price" />
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Preparation Time</label>
+        <input type="text" class="form-control" ng-model="result.model.preparationTime" />
+    </div>
+    <div class="form-group">
+        <label for="foodStatus" class="control-label col-md-2">Food Status</label>
+        <div class="col-md-10">           
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="foodStatus" id="foodStatus1" value="true" ng-model="result.model.foodStatus"> Active
+            </label>
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="foodStatus" id="foodStatus0" value="false" ng-model="result.model.foodStatus"> Inactive
+            </label>
+            <div class="col-md-6"></div>
+        </div>
+    </div>
+    <div class="form-group form-inline">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" ng-disabled="!form.$valid" class="btn btn-primary" />
+            <a ng-click="cancel()" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+</form>

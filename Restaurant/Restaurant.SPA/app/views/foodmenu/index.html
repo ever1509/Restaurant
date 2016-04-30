@@ -1,30 +1,25 @@
 ﻿<h2>Food Menu</h2>
 
-<p>
-    <a ng-click="create()" class="btn btn-primary">Create New</a>
-</p>
-
-<table class="table table-striped" >
+<p><a ng-click="create()" class="btn btn-primary">Create New</a></p>
+<table class="table table-striped">
     <tr>
-        <th>Category</th>
         <th>Food Name</th>
         <th>Description Food</th>
         <th>Price</th>
         <th>Preparation Time</th>
         <th>Status</th>
         <th></th>
+        <th></th>
+        <th></th>
     </tr>
     <tr ng-repeat="item in result.model">
-        <td>{{item.categoryID}}</td>
         <td>{{item.foodName}}</td>
         <td>{{item.descriptionFood}}</td>
         <td>{{item.price}}</td>
         <td>{{item.preparationTime}}</td>
-        <td>{{item.foodStatus}}</td>        
-        <td>
-            <a ng-click="detail(item)" class="btn btn-primary">Details</a>
-            <a ng-click="edit(item)" class="btn btn-primary">Edit</a>
-            <a ng-click="delete(item)" class="btn btn-primary">Delete</a>
-        </td>
+        <td>{{item.foodStatus}}</td>
+        <td><a ng-click="detail(item)" class="btn btn-primary">Details</a></td>
+        <td><a ng-click="edit(item)" class="btn btn-primary">Edit</a></td>
+        <td><a ng-click="delete(item)" class="btn btn-primary">Delete</a></td>
     </tr>
 </table>

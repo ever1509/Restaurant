@@ -1,18 +1,16 @@
 ﻿(function () {
     "use strict";
-
     var baseUrl = "http://localhost:3268/api/";
-    app.service("FoodMenuService", ["$log", "$http", function ($log, $http) {
-        var url = baseUrl + "foodmenu/";
+    app.service("UserService", ["$log", "$http", function ($log, $http) {
+        var url = baseUrl + "users/";
+
         var self = this;
         self.getAll = function () {
             return $http.get(url);
         };
-
         self.get = function (id) {
             return $http.get(url + id);
         };
-
         self.post = function (entity) {
             return $http.post(url, entity);
         };
@@ -23,5 +21,6 @@
             return $http.delete(url + id, entity);
         };
     }]);
+
 
 })();

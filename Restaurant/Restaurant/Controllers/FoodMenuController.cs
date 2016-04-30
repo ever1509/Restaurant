@@ -27,7 +27,9 @@ namespace Restaurant.Controllers
             try
             {
                 var task = await BusinessObject.GetFoodMenus();
-                result.Model = task.Select(item => new FoodMenuViewModel(item)).ToList();
+                //result.Model = task.Select(item => new FoodMenuViewModel(item)).ToList();
+
+                result.Model = task.ToList();
             }
             catch (Exception ex)
             {
@@ -63,18 +65,9 @@ namespace Restaurant.Controllers
             var result = new SingleFoodMenuResponse();
             try
             {
-                var entity = await BusinessObject.GetFoodMenu(value);
-                if (entity != null)
-                {
-                    var task = await BusinessObject.CreateFoodMenu(value);
-                    result.Model = value;
-                    result.Message = "Food Menu added successfully!";
-                }
-                else
-                {
-                    result.DidError = true;
-                    result.ErrorMessage = String.Format("It doesn't exist a Food Menu");
-                }
+                var task = await BusinessObject.CreateFoodMenu(value);
+                result.Model = value;
+                result.Message = "Food Menu added successfully!";
 
             }
             catch (Exception ex)

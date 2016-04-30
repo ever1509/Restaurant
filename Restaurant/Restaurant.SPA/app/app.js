@@ -1,6 +1,7 @@
 ﻿var app = angular.module("restaurant-APP", [
     "ngRoute",
     "ngResource"
+    //"ngCookies"
 ]);
 (function () {
     "use strict";
@@ -48,11 +49,35 @@
         })
         .when("/usertype-delete/:id", {
             templateUrl: "app/views/usertypes/delete.html",
-            controller:"DeleteUserTypeController"
+            controller: "DeleteUserTypeController"
         })
         .when("/foodmenu", {
-            templateUrl: "/app/views/foodmenu/index.html",
-            controller:"FoodMenuController"
+            templateUrl: "app/views/foodmenu/index.html",
+            controller: "FoodMenuController"
+        })
+        .when("/foodmenu-create/", {
+            templateUrl: "app/views/foodmenu/create.html",
+            controller: "CreateFoodMenuController"
+        })
+        .when("/foodmenu-detail/:id", {
+            templateUrl: "app/views/foodmenu/detail.html",
+            controller: "DetailFoodMenuController"
+        })
+        .when("/foodmenu-edit/:id", {
+            templateUrl: "app/views/foodmenu/edit.html",
+            controller: "EditFoodMenuController"
+        })
+        .when("/foodmenu-delete/:id", {
+            templateUrl: "app/views/foodmenu/delete.html",
+            controller: "DeleteFoodMenuController"
+        })
+        .when("/users", {
+            templateUrl: "app/views/users/index.html",
+            controller: "UserController"
+        })
+        .when("/orders", {
+            templateUrl: "app/views/orders/index.html",
+            controller: "OrderController"
         });
     });
 })();

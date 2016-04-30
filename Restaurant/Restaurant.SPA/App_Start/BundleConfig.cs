@@ -21,6 +21,7 @@ namespace Restaurant.SPA
             bundles.Add(new ScriptBundle("~/bundles/angular").Include(
                   "~/Scripts/angular.js",
                   "~/Scripts/angular-route.js",
+                // "~/Scripts/angular-cookies.js",
                   "~/Scripts/angular-resource.js"));
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
@@ -31,11 +32,15 @@ namespace Restaurant.SPA
                     "~/app/controllers/HomeController.js",
                     "~/app/controllers/CategoryController.js",
                     "~/app/controllers/UserTypeController.js",
-                    "~/app/controllers/FoodMenuController.js"));
+                    "~/app/controllers/FoodMenuController.js",
+                    "~/app/controllers/UserController.js",
+                    "~/app/controllers/OrderController.js"));
             bundles.Add(new ScriptBundle("~/bundles/services").Include(
                       "~/app/services/CategoryService.js",
                       "~/app/services/UserTypeService.js",
-                      "~/app/services/FoodMenuService.js"));
+                      "~/app/services/FoodMenuService.js",
+                      "~/app/services/UserService.js",
+                      "~/app/services/OrderService.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
