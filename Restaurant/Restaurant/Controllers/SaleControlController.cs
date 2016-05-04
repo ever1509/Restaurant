@@ -86,12 +86,10 @@ namespace Restaurant.Controllers
             var result = new SingleSaleControlResponse();
             try
             {
-                var entity = await BusinessObject.GetSaleControl(new SaleControl(id));
-                if (entity != null)
-                {
+               
                     result.Model = await BusinessObject.UpdateSaleControl(value);
                     result.Message = "Sale Control updated successfully!";
-                }
+                
             }
             catch (Exception ex)
             {

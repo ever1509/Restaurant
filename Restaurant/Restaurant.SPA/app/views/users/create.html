@@ -1,0 +1,66 @@
+﻿<h2>New User</h2>
+<hr />
+<form name="form" ng-submit="create()" class="form-horizontal">
+    <div class="form-group">
+        <label class="control-label col-md-2">User Name</label>
+        <div class="col-md-10">
+            <input type="text" name="userName" ng-model="result.model.userName" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Nickname</label>
+        <div class="col-md-10">
+            <input type="text" name="nickname" ng-model="result.model.nickname" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Password</label>
+        <div class="col-md-10">
+            <input type="password" name="password" ng-model="result.model.password" ng-minlength="0" ng-maxlength="8" class="form-control" />            
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">User Type</label>
+        <div class="col-md-10">
+            <select class="form-control list-box tri-state" ng-model="result.model.userTypeID">
+                <option ng-repeat="u in usertypeResult.model" value="{{u.userTypeID}}">{{u.description}}</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="activeStatus" class="control-label col-md-2">User Status</label>
+        <div class="col-md-10">
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="activeStatus" id="activeStatus1" value="true" ng-model="result.model.activeStatus"> Active
+            </label>
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="foodStatus" id="activeStatus0" value="false" ng-model="result.model.activeStatus"> Inactive
+            </label>
+            <div class="col-md-6"></div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="orderStatus" class="control-label col-md-2">Order Status</label>
+        <div class="col-md-10">
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="orderStatus" id="orderStatus1" value="true" ng-model="result.model.orderStatus"> Active
+            </label>
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="orderStatus" id="orderStatus0" value="false" ng-model="result.model.orderStatus"> Inactive
+            </label>
+            <div class="col-md-6"></div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Quantity Per Person</label>
+        <div class="col-md-10">
+            <input type="text" name="orderQuantityPerson" ng-model="result.model.orderQuantityPerson" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group form-inline">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" ng-disabled="!form.$valid" class="btn btn-primary" />
+            <a ng-click="cancel()" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+</form>

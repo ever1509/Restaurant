@@ -1,10 +1,20 @@
-﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-</head>
-<body>
-
-</body>
-</html>
+﻿<h2>Orders</h2>
+<p>
+    <a ng-click="create()" class="btn btn-primary">Create New</a>
+    <table class="table table-striped">
+        <tr>
+            <th># Order</th>
+            <th>Date</th>
+            <th></th>
+        </tr>
+        <tr ng-repeat="item in result.model">
+            <td>{{item.orderID}}</td>
+            <td>{{item.orderTime}}</td>
+            <td>
+                <a ng-click="detail(item)" class="btn btn-primary">Detail</a>
+                <a ng-click="edit(item)" class="btn btn-primary">Edit</a>
+                <a ng-click="delete(item)" class="btn btn-primary">Delete</a>
+            </td>
+        </tr>
+    </table>
+</p>

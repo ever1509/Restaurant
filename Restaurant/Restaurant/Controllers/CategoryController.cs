@@ -96,17 +96,9 @@ namespace Restaurant.Controllers
             var result = new SingleCategoryResponse();
             try
             {
-                var entity = BusinessObject.GetCategory(value);
-                if (entity != null)
-                {
+                
                     result.Model = await BusinessObject.UpdateCategory(value);
-                    result.Message = "Category updated successfully!";
-                }
-                else
-                {
-                    result.DidError = true;
-                    result.ErrorMessage = "It doesn't exist the category...";
-                }
+                    result.Message = "Category updated successfully!";                
             }
             catch (Exception ex)
             {

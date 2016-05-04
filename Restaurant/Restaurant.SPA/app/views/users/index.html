@@ -1,0 +1,26 @@
+﻿<h2>Users</h2>
+<p>
+    <a ng-click="create()" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-striped">
+    <tr>
+    <th>User Name</th>
+    <th>Nick Name</th>
+    <th>Status</th>        
+    <th>Order Status</th>
+    <th>Quantity Per Person</th>
+    <th></th>
+    </tr>
+    <tr ng-repeat="item in result.model">
+        <td>{{item.userName}}</td>
+        <td>{{item.nickName}}</td>
+        <td>{{item.activeStatus}}</td>
+        <td>{{item.orderStatus}}</td>
+        <td>{{item.orderQuantityPerson}}</td>
+        <td>
+            <a ng-click="edit(item)" class="btn btn-primary">Edit</a>
+            <a ng-click="detail(item)" class="btn btn-primary">Detail</a>
+            <a ng-click="delete(item)" class="btn btn-primary">Delete</a>
+        </td>    
+    </tr>            
+</table>

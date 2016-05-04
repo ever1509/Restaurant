@@ -34,13 +34,15 @@ namespace Restaurant.SPA
                     "~/app/controllers/UserTypeController.js",
                     "~/app/controllers/FoodMenuController.js",
                     "~/app/controllers/UserController.js",
-                    "~/app/controllers/OrderController.js"));
+                    "~/app/controllers/OrderController.js",
+                    "~/app/controllers/SaleControlController.js"));
             bundles.Add(new ScriptBundle("~/bundles/services").Include(
                       "~/app/services/CategoryService.js",
                       "~/app/services/UserTypeService.js",
                       "~/app/services/FoodMenuService.js",
                       "~/app/services/UserService.js",
-                      "~/app/services/OrderService.js"));
+                      "~/app/services/OrderService.js",
+                      "~/app/services/SaleControlService.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",

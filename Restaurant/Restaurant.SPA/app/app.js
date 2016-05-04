@@ -75,9 +75,66 @@
             templateUrl: "app/views/users/index.html",
             controller: "UserController"
         })
+        .when("/user-create/", {
+            templateUrl: "app/views/users/create.html",
+            controller: "CreateUserController"
+        })
+        .when("/user-detail/:id", {
+            templateUrl: "app/views/users/detail.html",
+            controller: "DetailUserController"
+        })
+        .when("/user-edit/:id", {
+            templateUrl: "app/views/users/edit.html",
+            controller: "EditUserController"
+        })
+        .when("/user-delete/:id", {
+            templateUrl: "app/views/users/delete.html",
+            controller: "DeleteUserController"
+        })
         .when("/orders", {
             templateUrl: "app/views/orders/index.html",
             controller: "OrderController"
+        })
+        .when("/order-create/", {
+            templateUrl: "app/views/orders/create.html",
+            controller: "CreateOrderController"
+        })
+        .when("/order-detail/:id", {
+            templateUrl: "app/views/orders/detail.html",
+            controller: "DetailOrderController"
+        })
+        .when("/order-edit/:id",
+        {
+            templateUrl: "app/views/orders/edit.html",
+            controller: "EditOrderController"
+        })
+        .when("/order-delete/:id",
+        {
+            templateUrl: "app/views/orders/delete.html",
+            controller: "DeleteOrderController"
+        })
+        .when("/salecontrol", {
+            templateUrl: "/app/views/salecontrol/index.html",
+            controller: "SaleControlController"
+        })
+        .when("/salecontrol-create/", {
+            templateUrl: "/app/views/salecontrol/create.html",
+            controller: "CreateSaleControlController"
+        })
+        .when("/salecontrol-detail/:id",
+        {
+            templateUrl: "/app/views/salecontrol/detail.html",
+            controller: "DetailSaleControlController"
+        })
+        .when("/salecontrol-edit/:id",
+        {
+            templateUrl: "/app/views/salecontrol/edit.html",
+            controller: "EditSaleControlController"
+        }
+        )
+        .when("/salecontrol-delete/:id", {
+            templateUrl: "/app/views/salecontrol/delete.html",
+            controller: "DeleteSaleControlController"
         });
     });
 })();

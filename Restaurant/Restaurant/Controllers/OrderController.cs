@@ -87,17 +87,9 @@ namespace Restaurant.Controllers
             var result = new SingleOrderResponse();
             try
             {
-                var entity = await BusinessOBject.GetOrder(value);
-                if (entity != null)
-                {
+               
                     result.Model = await BusinessOBject.UpdateOrder(value);
-                    result.Message = "Order updated successfully!";
-                }
-                else
-                {
-                    result.DidError = true;
-                    result.ErrorMessage = "It doesn't exist the Order";
-                }
+                    result.Message = "Order updated successfully!";               
             }
             catch (Exception ex)
             {

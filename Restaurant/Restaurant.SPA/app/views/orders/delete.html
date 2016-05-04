@@ -1,0 +1,12 @@
+﻿<h2>Delete Order</h2>
+<h3>Are you sure you want delete this Record?</h3>
+<dl class="dl-horizontal">
+    <dt># Order</dt>
+    <dd>{{result.model.orderID}}</dd>
+    <dt>Date</dt>
+    <dd>{{result.model.orderTime}}</dd>
+</dl>
+<div>
+    <a ng-click="delete(result.model.orderID)" class="btn btn-primary">Delete</a>
+    <a ng-click="cancel()" class="btn btn-primary">Cancel</a>
+</div>

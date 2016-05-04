@@ -1,0 +1,20 @@
+﻿<h2>Sale Control</h2>
+<p>
+    <a ng-click="create()" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>Quantity</th>
+        <th>Status</th>
+        <th></th>
+    </tr>
+    <tr ng-repeat="item in result.model">
+        <td>{{item.quantity}}</td>
+        <td>{{item.serviceStatus}}</td>
+        <td>
+            <a ng-click="detail(item)" class="btn btn-primary">Detail</a>
+            <a ng-click="edit(item)" class="btn btn-primary">Edit</a>
+            <a ng-click="delete(item)" class="btn btn-primary">Delete</a>
+        </td>
+    </tr>
+</table>

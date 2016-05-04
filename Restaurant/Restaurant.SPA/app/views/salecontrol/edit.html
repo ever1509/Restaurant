@@ -1,0 +1,43 @@
+﻿<h2>Edit Sale Control</h2>
+<form name="form" class="form-horizontal" ng-submit="update()">
+    <div class="form-group">
+        <label class="control-label col-md-2">Food Menu</label>
+        <div class="col-md-10">
+            <select class="form-control" ng-model="result.model.foodMenuID">
+                <option ng-repeat="s in foodmenuResult.model" value="{{s.foodMenuID}}">{{s.foodName}}</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2"># Order</label>
+        <div class="col-md-10">
+            <select class="form-control" ng-model="result.model.orderID">
+                <option ng-repeat="c in orderResult.model" value="{{c.orderID}}">{{c.orderID}}</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Quantity</label>
+        <div class="col-md-10">
+            <input type="text" class="form-control" name="quantity" ng-model="result.model.quantity" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="serviceStatus" class="control-label col-md-2">Service Status</label>
+        <div class="col-md-10">
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="serviceStatus" id="serviceStatus1" value="true" ng-model="result.model.serviceStatus"> Active
+            </label>
+            <label class="radio-inline col-md-2">
+                <input type="radio" name="serviceStatus" id="serviceStatus0" value="false" ng-model="result.model.serviceStatus"> Inactive
+            </label>
+            <div class="col-md-6"></div>
+        </div>
+    </div>
+    <div class="form-group form-inline">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" ng-disabled="!form.$valid" class="btn btn-primary" />
+            <a ng-click="cancel()" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+</form>

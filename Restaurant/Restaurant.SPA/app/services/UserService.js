@@ -2,7 +2,7 @@
     "use strict";
     var baseUrl = "http://localhost:3268/api/";
     app.service("UserService", ["$log", "$http", function ($log, $http) {
-        var url = baseUrl + "users/";
+        var url = baseUrl + "user/";
 
         var self = this;
         self.getAll = function () {

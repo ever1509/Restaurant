@@ -7,12 +7,12 @@
     app.controller("DeleteCategoryController", DeleteCategoryController);
     CategoryController.$inject = ["$log", "$scope", "$location", "CategoryService"];
     CreateCategoryController.$inject = ["$log", "$scope", "$location", "CategoryService"];
-    DetailCategoryController.$inject = ["$log", "$scope", "$location","$routeParams", "CategoryService"];
+    DetailCategoryController.$inject = ["$log", "$scope", "$location", "$routeParams", "CategoryService"];
     EditCategoryController.$inject = ["$log", "$scope", "$location", "$routeParams", "CategoryService"];
     DeleteCategoryController.$inject = ["$log", "$scope", "$location", "$routeParams", "CategoryService"];
     function CategoryController($log, $scope, $location, categoryService) {
         $scope.result = {};
-        categoryService.getAll().then(function (result) {                   
+        categoryService.getAll().then(function (result) {
             $scope.result = result.data;
         });
         $scope.create = function () {
@@ -30,8 +30,8 @@
     };
     function CreateCategoryController($log, $scope, $location, categoryService) {
         $scope.result = {};
-        $scope.create = function () {                      
-            categoryService.post($scope.result.model).then(function (result) {                                               
+        $scope.create = function () {
+            categoryService.post($scope.result.model).then(function (result) {
                 if (result.data.didError) {
                     $scope.result = result.data;
                 } else {
@@ -60,9 +60,9 @@
 
         categoryService.get(id).then(function (result) {
             $scope.result = result.data;
-        });        
+        });
         $scope.update = function () {
-            categoryService.put(id,$scope.result.model).then(function (result) {
+            categoryService.put(id, $scope.result.model).then(function (result) {
                 $location.path("/categories");
             });
         };

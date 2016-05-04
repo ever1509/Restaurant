@@ -1,0 +1,26 @@
+﻿<h2>New Order</h2>
+<form name="form" ng-submit="create()" class="form-horizontal">
+    <div class="form-group">
+        <label class="control-label col-md-2">User</label>
+        <div class="form-group col-md=10">
+            <select class="form-control" ng-model="result.model.userID">
+                <option ng-repeat="o in userResult.model" value="{{o.userID}}">{{o.userName}}</option>
+            </select>
+        </div>        
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Date</label>
+        <div class="form-group">
+            <input type="date" class="form-control" name="orderTime" ng-model="result.model.orderTime" />
+        </div>
+    </div>
+    <div class="form-group form-inline">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" ng-disabled="!form.$valid" class="btn btn-primary" value="Save" />
+            <a ng-click="backlist()" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+</form>
+
+
+

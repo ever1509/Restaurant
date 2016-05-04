@@ -86,17 +86,9 @@ namespace Restaurant.Controllers
             var result = new SingleFoodMenuResponse();
             try
             {
-                var entity = await BusinessObject.GetFoodMenu(new FoodMenu(id));
-                if (entity != null)
-                {
+                
                     var task = await BusinessObject.UpdateFoodMenu(value);
-                    result.Message = "Food Menu updated successfully!";
-                }
-                else
-                {
-                    result.DidError = true;
-                    result.ErrorMessage = "It doesn't exist this Food Menu";
-                }
+                    result.Message = "Food Menu updated successfully!";                
             }
             catch (Exception ex)
             {
